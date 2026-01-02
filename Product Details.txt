@@ -1,0 +1,20 @@
+ Product Code 	 Product Name 	 Category 	 Cost Per Unit 	 Other Expenses 	 Price Per Unit 
+ PR01 	 CPU 	 Storage and Memory 	389	0.0423	467.76
+ PR02 	 Scanner 	 I D 	180	0.0613	242.27
+ PR03 	 Mouse 	 I D 	25	0.03	35.05
+ PR04 	 Headphone 	 O D 	15	0.0445	20.7
+ PR05 	 Joystick 	 I D 	30	0.0123	41.28
+ PR06 	 Video Camera 	 I D 	115	0.0367	161.35
+ PR07 	 Touchscreen 	 Screen 	210	0.0389	315.2
+ PR08 	 LCD 	 Screen 	346	0.0599	463.78
+ PR09 	 Digital Camera 	 I D 	145	0.0695	210.73
+ PR10 	 Projector 	 Screen 	190	0.0381	269.06
+ PR11 	 Wifi Router 	 Network 	35	0.06	52.02
+ PR12 	 CD/DVD Writer 	 Storage and Memory 	50	0.04	62.82
+ PR13 	 Microphone 	 I D 	80	0.03	116.38
+ PR14 	 Ex Hard Drive 	 Storage and Memory 	195	0.071	270.21
+ PR15 	 Card Reader 	 Storage and Memory 	5	0.04	6.54
+ PR16 	 W. Keyboard & Mouse 	 Network 	24	0.04	32.08
+ PR17 	 Smart Board 	 I D 	105	0.0683	126.65
+ PR18 	 Printer 	 O D 	200	0.05	253.53
+ PR19 	 Speaker 	 O D 	45	0.0545	53.37
