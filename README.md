@@ -14,7 +14,7 @@
 - [Dashboard Preview](#-dashboard-preview)
 - [Tools & Technologies Used](#-tools--technologies-used)
 - [Data Sources](#-data-sources)
-- [How to Use](#-how-to-use)
+
 - [Business Value](#-business-value)
 - [Author](#-author)
 - [Support](#-support)
@@ -128,16 +128,7 @@ The dashboard helps stakeholders gain **actionable insights**, track KPIs, ident
 
 ---
 
-## 🚀 How to Use
-1.🔽 **Download Power BI File:**  
-[Click here to download](PowerBI_Dashboard.pbix)
-
-2. Open it using **Power BI Desktop**
-3. Use slicers to filter data by:
-   - Financial Year
-   - Country
-   - Store Name
-4. Interact with visuals to explore insights
+s
 
 ---
 
