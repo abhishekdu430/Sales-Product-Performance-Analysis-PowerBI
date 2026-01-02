@@ -1,5 +1,5 @@
-# Sales-Product-Performance-Analysis-PowerBI
-# 📊 Sales & Product Performance Analysis Dashboard
+# 📊 Sales-Product-Performance-Analysis-PowerBI
+# 
 ## 📑 Table of Contents
 - [Project Overview](#-project-overview)
 - [Objectives](#-objectives)
@@ -123,7 +123,7 @@ The dashboard helps stakeholders gain **actionable insights**, track KPIs, ident
 
 
 ### 🔹 Salesperson Performance
-![Salesperson Performance](Multi_visual.png)
+![Salesperson Performance](Multi_Visual.png)
 
 
 ---
