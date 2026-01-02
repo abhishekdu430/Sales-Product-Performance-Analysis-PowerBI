@@ -129,7 +129,7 @@ The dashboard helps stakeholders gain **actionable insights**, track KPIs, ident
 ---
 
 ## 🚀 How to Use
-1. Download the Powerbi_Project.pbix file from this repository
+1. Download the Power Bi project.pbix.pbix file from this repository
 2. Open it using **Power BI Desktop**
 3. Use slicers to filter data by:
    - Financial Year
